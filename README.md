@@ -1,10 +1,10 @@
 # MYSQL
 MySqlQuery  is Simple :
 =========================
-SELECT   STAR||COLUMN  FROM TABLE1 "\n"
-JOIN   TABLE2  ON CONDITION  =====>> This statement is for joins, so it is optional. "\n"
-WHERE  CONDITION "\n"
-GROUP  BY  COLUMN_N "\n"
-HAVING GROUP  CONDITION "\n"
-ORDER  BY  COLUMN_N "\n"
-LIMIT  OFFSET  LENGTH "\n"
+<br>SELECT   STAR||COLUMN  FROM TABLE1 
+<br>JOIN   TABLE2  ON CONDITION  -----> Optional line for joins.
+<br>WHERE  CONDITION 
+<br>GROUP  BY  COLUMN_N 
+<br>HAVING GROUP  CONDITION 
+<br>ORDER  BY  COLUMN_N 
+<br>LIMIT  OFFSET  LENGTH 
